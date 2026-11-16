@@ -1,0 +1,6 @@
+Running float total : 100000.0000013329  absolute error = 1.333e-06  relative error = 1.333e-11
+math.fsum total     : 100000.0000000000  absolute error = 0.000e+00  relative error = 0.000e+00
+Integer cents total : 100000.0000000000  absolute error = 0.000e+00  relative error = 0.000e+00
+Exact comparison of running total: False
+Tolerance comparison of running total: True
+Machine epsilon for float64: 2.220446049250313e-16

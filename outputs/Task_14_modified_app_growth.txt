@@ -1,0 +1,5 @@
+Fitted model: N(t) = 91.11 * exp(0.3005 t)
+Growth rate per month: 35.05%  (+/- 0.0021 on r)
+Doubling time: 2.31 months
+RMSE: 4.05 users
+Forecast for month 12: 3355 users

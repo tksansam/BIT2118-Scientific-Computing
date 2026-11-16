@@ -1,0 +1,7 @@
+First five amounts: [1098 1617  767  344  607]
+First five fees:    [25 25 13  7 13]
+Total fees collected: KES 29,066,566
+Average fee per transfer: KES 29.07
+Loop time: 0.3211 s
+Vectorized time: 0.0082 s
+Approximate speed-up: 39.3x

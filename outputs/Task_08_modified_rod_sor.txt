@@ -1,0 +1,5 @@
+Temperatures (C): [227.5 205.  182.5 160.  137.5 115.   92.5  70.   47.5]
+Jacobi iterations:        424
+Gauss-Seidel iterations:  212
+SOR iterations (w=1.528): 42
+Max difference SOR vs direct: 9.117741228692466e-09

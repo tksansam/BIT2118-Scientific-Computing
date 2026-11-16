@@ -1,0 +1,7 @@
+Eigenvalues: [1.    0.815 0.815]
+Long-run market share:
+  Network X: 45.19%
+  Network Y: 32.07%
+  Network Z: 22.74%
+Shares after 60 months from (30%, 40%, 30%): [0.4519 0.3207 0.2274]
+Verification error ||Pv - v||: 1.3597399555105182e-16

@@ -1,0 +1,7 @@
+Requirements & design : mean 13.34 days
+Coding                : mean 30.99 days
+Testing & report      : mean 11.67 days
+Mean total duration: 56.00 days
+Probability of missing the 60-day deadline: 26.30%
+Deadline needed for 90% confidence: 64.5 days
+95% CI of the miss probability: +/- 0.273%

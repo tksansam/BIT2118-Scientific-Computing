@@ -1,0 +1,5 @@
+Type A servers: 2.50
+Type B servers: 5.00
+Verification A @ solution: [20. 80.]
+Residual: [0. 0.]
+Residual norm: 0.0

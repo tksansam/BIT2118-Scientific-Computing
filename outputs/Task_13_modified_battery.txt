@@ -1,0 +1,4 @@
+Linear estimate at 100 min: 3.847 V
+Cubic  estimate at 100 min: 3.847 V
+Time to 3.5 V (linear): 193.3 min
+Time to 3.5 V (cubic):  194.5 min

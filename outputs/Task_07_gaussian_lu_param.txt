@@ -1,0 +1,13 @@
+Measurement set 1
+Solution: [4.85915493 4.43661972 2.88732394]
+Residual norm: 1.7763568394002505e-15
+
+Measurement set 2
+Solution: [5.18309859 4.73239437 2.74647887]
+Residual norm: 0.0
+
+Measurement set 3
+Solution: [4.74647887 4.98591549 3.1971831 ]
+Residual norm: 1.7763568394002505e-15
+
+Direct solution for first set: [4.85915493 4.43661972 2.88732394]

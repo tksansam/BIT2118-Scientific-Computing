@@ -1,0 +1,12 @@
+Test 1 (12 V, 0 V, 6 V)
+  Loop currents (A): [0.9488 0.4465 0.4186]
+  Power dissipated: 13.898 W
+  Residual norm: 2.3603665272841412e-15
+Test 2 (9 V, 0 V, 9 V)
+  Loop currents (A): [0.7535 0.4605 0.5442]
+  Power dissipated: 11.679 W
+  Residual norm: 1.3322676295501878e-15
+Test 3 (24 V, 5 V, 0 V)
+  Loop currents (A): [1.9023 0.907  0.3628]
+  Power dissipated: 50.191 W
+  Residual norm: 9.930136612989092e-16

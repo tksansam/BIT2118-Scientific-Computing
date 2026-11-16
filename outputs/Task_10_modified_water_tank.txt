@@ -1,0 +1,3 @@
+Bisection depth:   1.348309 m (35 iterations)
+Fixed-point depth: 1.348309 m (16 iterations)
+Full tank volume:  14.137 m^3

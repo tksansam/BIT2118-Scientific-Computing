@@ -1,0 +1,5 @@
+Optimization success: True
+Maize: 4.000 acres, Beans: 6.000 acres
+Maximum profit: KES 372,000
+Land used 10.00/10, labour 160.0/160 days, fertiliser KES 48,000/52,000
+Best half-acre plan: maize 4.0, beans 6.0, profit KES 372,000

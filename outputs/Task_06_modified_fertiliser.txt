@@ -1,0 +1,6 @@
+DAP: 100.00 kg  (2.00 bags of 50 kg)
+CAN: 161.54 kg  (3.23 bags of 50 kg)
+MOP: 50.00 kg  (1.00 bags of 50 kg)
+Nutrients supplied (N, P, K): [60. 46. 30.]
+Residual norm: 7.105427357601002e-15
+Condition number of A: 2.54

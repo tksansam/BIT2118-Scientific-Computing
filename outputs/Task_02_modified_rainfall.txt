@@ -1,0 +1,6 @@
+Total monthly rainfall: 150.7 mm (5.93 in)
+Mean daily rainfall: 5.02 mm
+Wettest day: day 15 with 31.5 mm
+Number of rain days (>= 1 mm): 14
+Heavy-rain days (>= 20 mm): [ 7 15]
+First seven days in inches: [0.    0.094 0.465 0.    0.    0.22  0.909]

@@ -1,0 +1,5 @@
+Monthly rate (Newton): 2.075742% in 4 iterations
+Monthly rate (Secant): 2.075742% in 6 iterations
+Effective annual rate: 27.96%
+Total repaid: KES 114,000; total interest: KES 14,000
+Check f(i): -0.000000

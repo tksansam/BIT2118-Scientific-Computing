@@ -1,0 +1,4 @@
+Daily mean temperature: 25.62 C
+Minimum temperature: 20.00 C
+Maximum temperature: 31.90 C
+First six Fahrenheit readings: [69.8  68.9  68.54 68.   68.72 70.7 ]

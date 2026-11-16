@@ -1,0 +1,6 @@
+Transformation matrix:
+ [[-1.  -0.4]
+ [ 0.   1. ]]
+Determinant: -1.0
+Original area:    3.000
+Transformed area: 3.000

@@ -1,0 +1,4 @@
+h = 1.00 weeks: P(20) =  1992.76, max error = 163.432 fish
+h = 0.50 weeks: P(20) =  1989.97, max error =  82.336 fish
+h = 0.10 weeks: P(20) =  1987.85, max error =  16.589 fish
+Exact P(20) = 1987.33 fish

@@ -1,0 +1,13 @@
+t=   0s  x=   0.0m  v= 1.55m/s (  5.6 km/h)  a= 0.72m/s^2
+t=   2s  x=   3.1m  v= 3.00m/s ( 10.8 km/h)  a= 1.14m/s^2
+t=   4s  x=  12.0m  v= 6.10m/s ( 22.0 km/h)  a= 1.44m/s^2
+t=   6s  x=  27.5m  v= 8.75m/s ( 31.5 km/h)  a= 1.14m/s^2
+t=   8s  x=  47.0m  v=10.68m/s ( 38.4 km/h)  a= 0.84m/s^2
+t=  10s  x=  70.2m  v=12.10m/s ( 43.6 km/h)  a= 0.51m/s^2
+t=  12s  x=  95.4m  v=12.70m/s ( 45.7 km/h)  a= 0.17m/s^2
+t=  14s  x= 121.0m  v=12.80m/s ( 46.1 km/h)  a= 0.01m/s^2
+t=  16s  x= 146.6m  v=12.75m/s ( 45.9 km/h)  a=-0.02m/s^2
+t=  18s  x= 172.0m  v=12.70m/s ( 45.7 km/h)  a=-0.01m/s^2
+t=  20s  x= 197.4m  v=12.70m/s ( 45.7 km/h)  a= 0.00m/s^2
+Top speed: 46.1 km/h
+Peak acceleration: 1.44 m/s^2 at t=4s

@@ -1,0 +1,12 @@
+Initial guess: [3.0, 3.0]
+Possible location (km): [3.3125 3.7453]
+Residuals: [0. 0.]
+Converged: True
+
+Initial guess: [3.0, -3.0]
+Possible location (km): [ 3.3125 -3.7453]
+Residuals: [0. 0.]
+Converged: True
+
+Candidate [3.312 3.745] is 2.36 km from tower 3 (measured 2.4 km)
+Candidate [ 3.312 -3.745] is 9.77 km from tower 3 (measured 2.4 km)

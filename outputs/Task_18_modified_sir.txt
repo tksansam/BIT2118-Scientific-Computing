@@ -1,0 +1,6 @@
+Solver success: True
+Basic reproduction number R0 = 3.0
+Peak number sick: 362 students on day 16.9
+Students never infected by day 60: 71
+Total ever infected: 1129 (94.1%)
+Population conservation error: 6.82e-13
